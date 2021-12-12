@@ -4,7 +4,7 @@
 
 <i>Technologies Used: HTML5, CSS3, Javascript, p5.js, Minimax Algorithm(AI)</i>
 
-https://tic-tac-toe-using-minimax-algo-by-kunal.netlify.app/
+https://tic-tac-toe-by-kunal.netlify.app/
 
 ![Output](https://user-images.githubusercontent.com/54462993/120933832-97cf7f00-c719-11eb-894f-1ac0e10a75df.jpg)
 
