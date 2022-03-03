@@ -2,7 +2,7 @@
 <b>Tic Tac Toe game</b> is created based on the simple concept of the <b>Minimax Algorithm of Artificial Intelligence.</b> 
 
 
-<i>Technologies Used: <b>HTML5, CSS3, Javascript, p5.js, Minimax Algorithm (AI)</b></i>
+<i>Technologies Used: <b>HTML5, CSS3, Javascript, p5.js , Minimax Algorithm (AI)</b></i>
 
 Project Link: https://tic-tac-toe-by-kunal.netlify.app/
 
